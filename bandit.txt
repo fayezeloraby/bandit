@@ -1,0 +1,34 @@
+lvl-0 >> bandit0
+lvl-1 >> NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+lvl-2 >> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+lvl-3 >> aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+lvl-4 >> 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+lvl-5 >> lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+lvl-6 >> P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+lvl-7 >> z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+lvl 8 >> TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+lvl 9 >> EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+lvl 10 >> G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+lvl 11 >> 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+lvl 12 >> JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+lvl 13 >> wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+lvl 14 >> fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq >> sshkey.private
+lvl 15 >> jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+lvl 16 >> JQttfApK4SeyHwDlI9SXGR50qclOAil1
+lvl 17 >> 00000000000000000000000000000000 >> ~/key/sshkey17.private from bandit16
+lvl 18 >> hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+lvl 19 >> awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+lvl 20 >> VxCazJaVykI6W36BkBU0mJTCM8rR95XT >> ./bandit20-do cat /etc/bandit_pass/bandit20
+lvl 21 >> NvEJF7oVjkddltPSrdKEFOllh9V1IBcq >> $ echo -n 'last_pass' | nc -l -p 12345 & >> $ ./suconnect
+lvl 22 >> WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+lvl 23 >> QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
+lvl 24 >> VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+lvl 25 >> p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
+lvl 26 >> c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
+lvl 27 >> YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
+lvl 28 >> AVanL161y9rsbcJIsFHuw35rjaOM19nR
+lvl 29 >> tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
+lvl 30 >> xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
+lvl 31 >> OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
+lvl 32 >> rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
+lvl 32 >> odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
